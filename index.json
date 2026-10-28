@@ -1,0 +1,11 @@
+{
+  "org": "databrickslabs",
+  "repo": "lsql",
+  "versions": [
+    {
+      "commit": "1c2eb7a185816890820124a5d7d8e388f53f7ddd",
+      "tag": "",
+      "parsed_at": "2026-10-28T13:20:49.747760+00:00"
+    }
+  ]
+}
