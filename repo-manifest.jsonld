@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/databrickslabs/lsql/commit/1c2eb7a185816890820124a5d7d8e388f53f7ddd",
       "git:hexsha": "1c2eb7a185816890820124a5d7d8e388f53f7ddd",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/databrickslabs/lsql/commit/46d1d96f749c98e3ff23e548275f780bf4dde489",

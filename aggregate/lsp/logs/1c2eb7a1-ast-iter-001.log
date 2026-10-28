@@ -1,0 +1,7 @@
+[2026-10-28T13:19:17Z] === AST ITERATION 1 START | repo=databrickslabs/lsql sha=1c2eb7a1 ===
+[2026-10-28T13:19:17Z] [iter=1] PHASE START: ast repo=databrickslabs/lsql sha=1c2eb7a1
+[2026-10-28T13:19:17Z] [iter=1] Building AST aggregate chunks
+[2026-10-28T13:19:47Z] [iter=1] AST chunks built count=1 triples=413464
+[2026-10-28T13:19:47Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/1c2eb7a185816890820124a5d7d8e388f53f7ddd/.complete
+[2026-10-28T13:19:47Z] [iter=1] PHASE END: ast elapsed_s=29 elapsed_min=0.5
+[2026-10-28T13:19:47Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
